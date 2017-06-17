@@ -1,0 +1,14 @@
+{
+  "name": "image-search-layer",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "~1.16.0",
+    "express": "~4.14.1",
+    "google-images": "^2.1.0",
+    "jsonfile": "^3.0.0",
+    "upload": "^0.1.3"
+  }
+}
